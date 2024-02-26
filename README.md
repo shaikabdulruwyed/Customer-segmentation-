@@ -1,1 +1,1 @@
-customer segmentation
+customer segmentation using K-Means Clustering
